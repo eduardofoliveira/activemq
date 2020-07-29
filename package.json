@@ -1,0 +1,10 @@
+{
+  "name": "activemq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "stomp": "^0.1.1",
+    "stompit": "^1.0.0"
+  }
+}
